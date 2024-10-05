@@ -1,5 +1,5 @@
 <h1>Enabling Microsoft Defender for Cloud</h1>
-This tutorial outlines the configuration and observation of Microsoft Azure's Active Directory hierarchy groups
+This tutorial outlines the configuration for Microsoft Defender for Cloud
 
 <h2>Environments and Technologies Used</h2>
 
