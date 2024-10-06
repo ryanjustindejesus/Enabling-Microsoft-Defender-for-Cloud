@@ -1,5 +1,6 @@
 <h1>Enabling Microsoft Defender for Cloud</h1>
-<b>This tutorial outlines the configuration of Microsoft Defender for Cloud</b>
+
+- <b>This tutorial outlines the configuration of Microsoft Defender for Cloud</b>
 
 <h2>Environments and Technologies Used</h2>
 
